@@ -24,11 +24,8 @@ Como entusiasta del mundo IT en la actualidad me encuentro formandome como desar
 📞 Datos de Contacto: 
  - WhatsApp: +54 11 6942-4847
  - Correo: marcelo.abarredo@gmail.com
- - GitHub: https://github.com/MarceloBarredo
- - LinkedIn: DM
-
-
-### Hi there 👋
+ - GitHub: DM in LinkedIn
+ - LinkedIn: www.linkedin.com/in/marcelo-alejandro-barredo
 
 <!--
 **MarceloBarredo/MarceloBarredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
