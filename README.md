@@ -15,6 +15,7 @@ Entusiasta del mundo IT y Developer en eterna formación. Si bien ya me especial
 </p>
 
 
+<h2> Skills </h2>
 
 ✔️ Tech Skills: React.JS | Redux.JS | Redux Toolkit | JavaScript | TypeScript | HTML5 | CSS3 | Tailwind CSS | Node.JS | Express.JS | Sequelize.JS | PostgreSQL | SQL
 
@@ -30,14 +31,14 @@ Entusiasta del mundo IT y Developer en eterna formación. Si bien ya me especial
  - Optimismo y capacidad de aprendizaje continuo? La clave para un constante progreso.
  - Extrovertido? Hasta de lo que nadie quiere hablar.
 
-📞 Datos de Contacto: 
+<h2>📞 Datos de Contacto </h2>
  - WhatsApp: +54 11 6942-4847
  - Correo: marcelo.abarredo@gmail.com
  - GitHub: DM in LinkedIn
  - LinkedIn: www.linkedin.com/in/marcelo-alejandro-barredo
  
  
-# 📊 GitHub Stats:
+<h2>📊 Stats </h2>
 ![](https://github-readme-stats.vercel.app/api?username=MarceloBarredo&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MarceloBarredo&theme=slateorange&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloBarredo&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
