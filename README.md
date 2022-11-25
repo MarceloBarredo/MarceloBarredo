@@ -25,8 +25,9 @@ Entusiasta del mundo IT y Developer en eterna formación. Si bien ya me especial
  - WhatsApp: +54 11 6942-4847 <br/>
  - Correo: marcelo.abarredo@gmail.com <br/>
 
-<script src="https://unpkg.com/@open-wa/whatsapp-button?module" type="module"></script>
-<whatsapp-button phone="1169424847" dialcode="54" text="Empezar Chat!" label="WhatsApp Me"></whatsapp-button>
+<script src="https://unpkg.com/whatsapp-button?module" type="module"></script>
+
+<whatsapp-button phone="123456789" dialcode="44" text="hey there lets chat!" label="Start Chat"></whatsapp-button>
       
 
 <p align="left">
