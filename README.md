@@ -5,7 +5,7 @@ Mi nombre es Marcelo Alejandro Barredo, como entusiasta del mundo IT en la actua
 <h2> Stack de Tecnologías: </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=react,kubernetes,docker,c,vim" />
   </a>
 </p>
 
