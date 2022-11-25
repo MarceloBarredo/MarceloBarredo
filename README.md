@@ -37,9 +37,9 @@ Entusiasta del mundo IT y Developer en eterna formación. Si bien ya me especial
  - GitHub: DM in LinkedIn
  - LinkedIn: www.linkedin.com/in/marcelo-alejandro-barredo
  
- 
-<h2>📊 GitHub Stats </h2>
-![](https://github-readme-stats.vercel.app/api?username=MarceloBarredo&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+# 📊 GitHub Stats
+<p align="center">![](https://github-readme-stats.vercel.app/api?username=MarceloBarredo&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false)<br/></p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MarceloBarredo&theme=slateorange&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloBarredo&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
