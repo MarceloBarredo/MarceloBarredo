@@ -22,8 +22,8 @@ Entusiasta del mundo IT y Developer en eterna formación. Si bien ya me especial
 ✔️ Otras Skills: Flujo de trabajo de GIT | GitHub | POSTMAN Api Platform | Figma | Trello | Vercel | Slack | Vite | VSC | WebPack
 
 <h2>📞 Datos de Contacto </h2>
- - WhatsApp: +54 11 6942-4847 <br/>
- - Correo: marcelo.abarredo@gmail.com <br/>
+ - WhatsApp: +54 11 6942-4847 <br/><br/>
+ - Correo: marcelo.abarredo@gmail.com <br/><br/>
  <p align="left"> - LinkedIn: <a href="www.linkedin.com/in/marcelo-alejandro-barredo" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/106169178/204020558-4e857b32-f3b5-47ac-ac8f-49bc069ef670.png" alt="www.linkedin.com/in/marcelo-alejandro-barredo" height="40" width="40" /></a> </p>
  
 # 📊 GitHub Stats:
