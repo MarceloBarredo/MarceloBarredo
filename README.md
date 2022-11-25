@@ -1,6 +1,6 @@
+<h1> ¡Hola! Soy Marcelo Alejandro Barredo 👋
 
-
-Mi nombre es Marcelo Alejandro Barredo, como entusiasta del mundo IT en la actualidad me encuentro formandome como desarrollador web. Si bien ya me especializo en un Stack de ciertas tecnologías que me permiten el desarrollo en mi área, considero que uno nunca deja de aprender y profundizar sus conocimientos. Busco un ambiente en donde pueda incrementar mi experiencia en lenguajes de programación, mediante la constante formación e implementación en proyectos que siempre me obliguen a aprender algo nuevo. Mi segundo interes es integrarme en un equipo de trabajo con excelentes personas, extrovertidas, sociables y motivadas, ya que considero que en consecuencia, estas cualidades siempre llevan a un teamwork exitoso.
+Entusiasta del mundo IT y Developer en eterna formación. Si bien ya me especializo en un Stack de tecnologías que me permiten el desarrollo en mi área, considero que uno nunca deja de aprender y profundizar sus conocimientos. 
 
 <h2> Stack de Tecnologías y herramientas </h2>
 <p align="center">
