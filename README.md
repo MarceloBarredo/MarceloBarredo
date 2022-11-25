@@ -1,12 +1,9 @@
-function Welcome(props) {
-  return <h1>Hello, {props.name}</h1>;
-}
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-const element = <Welcome name="Sara" />;
-root.render(element);
 
 Mi nombre es Marcelo Alejandro Barredo, como entusiasta del mundo IT en la actualidad me encuentro formandome como desarrollador web. Si bien ya me especializo en un Stack de ciertas tecnologías que me permiten el desarrollo en mi área, considero que uno nunca deja de aprender y profundizar sus conocimientos. Busco un ambiente en donde pueda incrementar mi experiencia en lenguajes de programación, mediante la constante formación e implementación en proyectos que siempre me obliguen a aprender algo nuevo. Mi segundo interes es integrarme en un equipo de trabajo con excelentes personas, extrovertidas, sociables y motivadas, ya que considero que en consecuencia, estas cualidades siempre llevan a un teamwork exitoso.
+
+<h2> Stack de Tecnologías: </h2>
+[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
 
 ✔️ Tech Skills: React.JS | Redux.JS | Redux Toolkit | JavaScript | TypeScript | HTML5 | CSS3 | Tailwind CSS | Node.JS | Express.JS | Sequelize.JS | PostgreSQL | SQL
 
