@@ -24,8 +24,14 @@ Entusiasta del mundo IT y Developer en eterna formación. Si bien ya me especial
 <h2>📞 Datos de Contacto </h2>
  - WhatsApp: +54 11 6942-4847 <br/>
  - Correo: marcelo.abarredo@gmail.com <br/>
- - GitHub: DM in LinkedIn <br/>
- - LinkedIn: www.linkedin.com/in/marcelo-alejandro-barredo <br/>
+<script async src='https://d2mpatx37cqexb.cloudfront.net/delightchat-whatsapp-widget/embeds/embed.min.js'></script>
+        <script>
+          var wa_btnSetting = {"btnColor":"#16BE45","ctaText":"WhatsApp Me","cornerRadius":40,"marginBottom":"0","marginLeft":"0","marginRight":"0","btnPosition":"left","whatsAppNumber":"541169424847","welcomeMessage":"Hello","zIndex":999999,"btnColorScheme":"light"};
+          window.onload = () => {
+            _waEmbed(wa_btnSetting);
+          };
+        </script>
+      
 
 <p align="left">
 <a href="www.linkedin.com/in/marcelo-alejandro-barredo" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/106169178/204020558-4e857b32-f3b5-47ac-ac8f-49bc069ef670.png" alt="www.linkedin.com/in/marcelo-alejandro-barredo" height="40" width="40" /></a>
