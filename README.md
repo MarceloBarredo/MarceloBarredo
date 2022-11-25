@@ -5,9 +5,11 @@ Mi nombre es Marcelo Alejandro Barredo, como entusiasta del mundo IT en la actua
 <h2> Stack de Tecnologías: </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,react,redux,css,tailwind,js,ts,nodejs,express,postgres,figma,git,github," />
   </a>
 </p>
+
+
 
 ✔️ Tech Skills: React.JS | Redux.JS | Redux Toolkit | JavaScript | TypeScript | HTML5 | CSS3 | Tailwind CSS | Node.JS | Express.JS | Sequelize.JS | PostgreSQL | SQL
 
@@ -19,6 +21,9 @@ Mi nombre es Marcelo Alejandro Barredo, como entusiasta del mundo IT en la actua
  - Trello
  - Vercel
  - Slack
+ - Vite
+ - VSC
+ - WebPack
 
 ✔️ Soft Skills: 
  - Trabajo en equipo? No esperaba menos.
