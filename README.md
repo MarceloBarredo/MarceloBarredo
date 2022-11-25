@@ -18,17 +18,7 @@ Entusiasta del mundo IT y Developer en eterna formación. Si bien ya me especial
 
 ✔️ Tech Skills: React.JS | Redux.JS | Redux Toolkit | JavaScript | TypeScript | HTML5 | CSS3 | Tailwind CSS | Node.JS | Express.JS | Sequelize.JS | PostgreSQL | SQL
 
-✔️ Otras Skills:
- - Flujo de trabajo de GIT.
- - GitHub
- - POSTMAN Api Platform.
- - Figma
- - Trello
- - Vercel
- - Slack
- - Vite
- - VSC
- - WebPack
+✔️ Otras Skills: Flujo de trabajo de GIT | GitHub | POSTMAN Api Platform | Figma | Trello | Vercel | Slack | Vite | VSC | WebPack
 
 ✔️ Soft Skills: 
  - Trabajo en equipo? No esperaba menos.
