@@ -1,6 +1,6 @@
 <h1> ¡Hola! Soy Marcelo Alejandro Barredo 👋 </h1>
 
-Entusiasta del mundo IT y Developer en eterna formación. Si bien ya me especializo en un Stack de tecnologías que me permiten el desarrollo en mi área, considero que uno nunca deja de aprender y profundizar sus conocimientos. 
+Entusiasta del mundo IT y Developer en eterna formación. Si bien ya me especializo en un Stack de tecnologías que me permiten el desarrollo e implementación, considero que uno nunca deja de aprender y profundizar sus conocimientos.  
 
 <h2> Stack de Tecnologías y herramientas </h2>
 <p align="center">
