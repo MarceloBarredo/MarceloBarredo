@@ -4,12 +4,12 @@ Mi nombre es Marcelo Alejandro Barredo, como entusiasta del mundo IT en la actua
 
 <h2> Stack de Tecnologías y herramientas </h2>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=html,react,redux,css,tailwind,js,ts,nodejs,express,postgres" />
   </a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,vite,vscode,webpack" />
   </a>
 </p>
