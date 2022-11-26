@@ -23,7 +23,7 @@ Entusiasta del mundo IT y Developer en eterna formación. Si bien ya me especial
 
 <h2>📞 Datos de Contacto </h2>
 <p align="left">
- <a href="https://www.linkedin.com/in/marcelo-alejandro-barredo/" target=”_blank”><img align="center" src="https://user-images.githubusercontent.com/106169178/204020558-4e857b32-f3b5-47ac-ac8f-49bc069ef670.png" height="50" width="50" /></a>
+ <a href="https://www.linkedin.com/in/marcelo-alejandro-barredo/" target=”_blank”><img margin=1 align="center" src="https://user-images.githubusercontent.com/106169178/204020558-4e857b32-f3b5-47ac-ac8f-49bc069ef670.png" height="50" width="50" /></a>
  <a href="https://instagram.com/marcee.alejandro?igshid=YmMyMTA2M2Y=" target=”_blank”><img align="center" src="https://user-images.githubusercontent.com/106169178/204026043-cdc92cfc-1e8d-4969-8d52-e5a06c24a574.png" height="50" width="50" /></a> 
   <a href="mailto:marcelo.abarredo@gmail.com" target=”_blank”><img align="center" src="https://user-images.githubusercontent.com/106169178/204027826-e5bffc01-7338-4144-bb96-11e30dbf5a6c.png" height="50" width="50" /></a>
 </p>
